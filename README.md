@@ -1,5 +1,5 @@
 # Lab_04
-a) The output is: 
+1. a) The output is: 
 1 …
 2 …
 3 …
@@ -7,11 +7,11 @@ a) The output is:
 5 …
 6 Blastoff!
 
-	b) to print only even number: see eclipse
+b) to print only even number: see eclipse
 
-	c) The time complexity is O(n) because it depends what number int is set to (the input).
+c) The time complexity is O(n) because it depends what number int is set to (the input).
 
-a) the code finds the GCD depending on the input 
+2. a) the code finds the GCD depending on the input 
 
 	b) 
   
@@ -19,7 +19,7 @@ a) the code finds the GCD depending on the input
 
   public static void main(String[] args) {
 		
-	}
+ }
 
 static int gcd(int x, int y) {
     if (x == y) { //base
